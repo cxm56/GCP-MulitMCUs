@@ -49,8 +49,13 @@ NO20102A---初始版本
 
 #define APP_VER_STR                "NO20XXXA"
 #define APP_VER_PART            SYS_PART_SLC   //组件号
+<<<<<<< HEAD
 #define APP_VER_NO0             (2)
 #define APP_VER_NO1             (11)
+=======
+#define APP_VER_NO0             (1)
+#define APP_VER_NO1             (1)
+>>>>>>> upstream/master
 
 
 #define MAINCTRL_TYPE_BOARD10        (0) //主控卡
